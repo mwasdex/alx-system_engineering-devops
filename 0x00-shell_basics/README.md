@@ -22,3 +22,6 @@ Creates a directory /tmp/my_first_directory
 
 # 7-movethatfile
 Move the file betty from /tmp to /tmp/my_first_directory
+
+# 8-firstdelete
+Deletes the file betty
