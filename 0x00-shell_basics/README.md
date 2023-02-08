@@ -37,3 +37,6 @@ Lists all files in current directory, parent of the working directory and /boot 
 
 # 12-file_type
 Prints the type of iamafile
+
+# 13-symbolic_link
+Creates a symbolic link to /bin/ls with __ls__ 
