@@ -34,3 +34,6 @@ Changes working directory to previous one
 
 # 11-lists
 Lists all files in current directory, parent of the working directory and /boot directory
+
+# 12-file_type
+Prints the type of iamafile
