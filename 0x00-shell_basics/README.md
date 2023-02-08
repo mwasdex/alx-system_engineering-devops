@@ -46,3 +46,6 @@ Copies all html files from current working directory to parent directory. Only c
 
 # 100-lets_move
 Moves all files beginning with an uppercase letter to directory /tmp/u
+
+# 101-clean_emacs
+Deletes all files in the current working directory that end with the character ~
