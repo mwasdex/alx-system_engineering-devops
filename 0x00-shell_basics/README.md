@@ -19,3 +19,6 @@ Displays current directory contents in long format, user and group ID in numeric
 
 # 6-firstdirectory
 Creates a directory /tmp/my_first_directory
+
+# 7-movethatfile
+Move the file betty from /tmp to /tmp/my_first_directory
