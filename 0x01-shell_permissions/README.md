@@ -45,3 +45,6 @@ Changes owner and group owner for all files and directories in the working direc
 
 # 101-symbolic_link_permissions
 Changes owner and group owner of hello file which is a symbolic link
+
+# 102-if_only
+Changes owner of file hello to betty only if it is owned by guillaume
