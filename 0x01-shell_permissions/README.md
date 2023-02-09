@@ -24,3 +24,6 @@ Adds excute permission to the owner, group owner and other users
 
 # 8-James_Bond
 Sets permission James Bond style
+
+# 9-John_Doe
+Sets unique mode for hello file
