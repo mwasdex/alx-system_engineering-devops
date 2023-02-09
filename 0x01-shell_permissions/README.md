@@ -42,3 +42,6 @@ Changes group owner of file hello to school
 
 # 100-change_owner_and_group
 Changes owner and group owner for all files and directories in the working directory
+
+# 101-symbolic_link_permissions
+Changes owner and group owner of hello file which is a symbolic link
