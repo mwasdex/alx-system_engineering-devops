@@ -18,3 +18,6 @@ Adds execute permission to the owner of file hello
 
 # 6-multiple-permissions
 Adds execute permission to owner and group owner, read permission to other user
+
+# 7-everybody
+Adds excute permission to the owner, group owner and other users
