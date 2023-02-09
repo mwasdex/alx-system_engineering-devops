@@ -27,3 +27,6 @@ Sets permission James Bond style
 
 # 9-John_Doe
 Sets unique mode for hello file
+
+# 10-mirror_permissions
+Sets mode of file hello same as olleh's mode
