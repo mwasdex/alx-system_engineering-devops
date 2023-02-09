@@ -30,3 +30,6 @@ Sets unique mode for hello file
 
 # 10-mirror_permissions
 Sets mode of file hello same as olleh's mode
+
+# 11-directories_permissions
+Adds execute permission to all subdirectories of the current owner, group and others. Regular files not to be changed
