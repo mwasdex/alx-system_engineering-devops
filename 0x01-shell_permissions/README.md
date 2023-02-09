@@ -36,3 +36,6 @@ Adds execute permission to all subdirectories of the current owner, group and ot
 
 # 12-directory_permissions
 Creates a directory my_dir with permissions 751
+
+# 13-change_group
+Changes group owner of file hello to school
