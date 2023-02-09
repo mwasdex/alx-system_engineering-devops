@@ -21,3 +21,6 @@ Adds execute permission to owner and group owner, read permission to other user
 
 # 7-everybody
 Adds excute permission to the owner, group owner and other users
+
+# 8-James_Bond
+Sets permission James Bond style
