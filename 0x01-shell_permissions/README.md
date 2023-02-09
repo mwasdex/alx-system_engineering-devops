@@ -9,3 +9,6 @@ Prints all the groups the current user is part of
 
 # 3-new_owner
 Changes the owner of file hello to user betty
+
+# 4-empty
+Creates empty file hello
