@@ -15,3 +15,6 @@ Creates empty file hello
 
 # 5-execute
 Adds execute permission to the owner of file hello
+
+# 6-multiple-permissions
+Adds execute permission to owner and group owner, read permission to other user
