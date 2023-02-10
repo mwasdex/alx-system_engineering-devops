@@ -55,3 +55,6 @@ Creates welcome/, welcom/to/ and welcome/to/school/ directories in the current w
 
 # 103-commas
 Lists all files and directory of the current directory separated by commas and other requirements
+
+# school.mgc
+Magic file for School data type
