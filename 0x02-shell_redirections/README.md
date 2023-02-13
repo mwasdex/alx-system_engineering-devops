@@ -27,3 +27,6 @@ Writes into file result of the command ls -la (overwrites)
 
 # 9-duplicate_last_line
 Duplicates the last line of a file and appends to the file
+
+# 10-no_more_js
+Deletes all regular files with .js extension in current and all subdirectories
