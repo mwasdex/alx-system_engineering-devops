@@ -36,3 +36,6 @@ Counts number of directories and subdirectories in current working directory
 
 # 12-newest_files
 Displays 10 newest files in the current directory
+
+# 13-unique
+Takes list of words and prints only words that appear once and sorted
