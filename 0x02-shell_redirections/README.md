@@ -33,3 +33,6 @@ Deletes all regular files with .js extension in current and all subdirectories
 
 # 11-directories
 Counts number of directories and subdirectories in current working directory
+
+# 12-newest_files
+Displays 10 newest files in the current directory
