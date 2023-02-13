@@ -21,3 +21,6 @@ Displays the third line of a file
 
 # 7-file
 Creates a file named (bullshit) containing text.
+
+# 8-cwd_state
+Writes into file result of the command ls -la (overwrites)
