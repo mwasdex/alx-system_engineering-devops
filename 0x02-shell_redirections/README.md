@@ -24,3 +24,6 @@ Creates a file named (bullshit) containing text.
 
 # 8-cwd_state
 Writes into file result of the command ls -la (overwrites)
+
+# 9-duplicate_last_line
+Duplicates the last line of a file and appends to the file
