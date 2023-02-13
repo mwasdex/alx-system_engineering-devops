@@ -54,3 +54,6 @@ Displays all the lines in the file /etc/passwd that do not contain the pattern '
 
 # 18-letteronly
 Displays all lines of a file starting with a letter
+
+# 19-AZ
+Replace all characters A and c from input to Z and e respectively.
