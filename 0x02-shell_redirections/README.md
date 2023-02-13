@@ -18,3 +18,6 @@ Displays the first 10 lines of /etc/passwd
 
 # 6-third_line
 Displays the third line of a file
+
+# 7-file
+Creates a file named (bullshit) containing text.
